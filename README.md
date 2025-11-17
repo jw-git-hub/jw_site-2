@@ -1,6 +1,6 @@
 # landing_Alivio
 
-**[Посмотреть демо](https://jw-git-hub.github.io/landing_Alivio/) | [View Demo](https://jw-git-hub.github.io/landing_Alivio/)**
+**[Посмотреть демо](https://jw-git-hub.github.io/jw_site-2/) | [View Demo](https://jw-git-hub.github.io/jw_site-2/)**
 
 ## Технологии / Technologies
 - HTML5
